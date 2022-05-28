@@ -1,5 +1,7 @@
 # deep_learning_project-
-This  repository is a part of the final project in deep learning course (DD2424).  
+This  repository is a part of the final project at the deep learning course (DD2424).
+Professor: Josephine Sullivan
+Institute: KTH Royal Institute of Technology, Stockholm, Sweden
 
 Reference for the codes in this respository
 VGG
